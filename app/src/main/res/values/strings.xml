@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">LayoutS</string>
+    <string name="screen_size">Screen size : Normal</string>
+    <string name="orientation">Orienatation : Portrait</string>
+</resources>
